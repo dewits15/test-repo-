@@ -1,1 +1,2 @@
-Creating another file with the same name "sample.txt"
+Adding a new line
+
